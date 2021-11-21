@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-11-21T19:28:55.083+00:00
+  initializedAtString: 2021-11-21T19:07:05.791+00:00
+  entries:
+  - path: Assets/Levels/Level01.unity
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Assets/Levels/Level01.unity
+    projectPath: Assets/Levels/Level01.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Material/red.mat
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Assets/Material/red.mat
+    projectPath: Assets/Material/red.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Material/red.mat.meta
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Assets/Material/red.mat.meta
+    projectPath: Assets/Material/red.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/PlayerController.cs
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Assets/PlayerController.cs
+    projectPath: Assets/PlayerController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/0a/0a805135e6ddf3853fec4e6abc6bddf3
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/Artifacts/0a/0a805135e6ddf3853fec4e6abc6bddf3
+    projectPath: Library/Artifacts/0a/0a805135e6ddf3853fec4e6abc6bddf3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4a/4a92d883e1319fd5ac853af295e5aeaa
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/Artifacts/4a/4a92d883e1319fd5ac853af295e5aeaa
+    projectPath: Library/Artifacts/4a/4a92d883e1319fd5ac853af295e5aeaa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5d/5daaf29a33664aa98461368c4c3220a3
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/Artifacts/5d/5daaf29a33664aa98461368c4c3220a3
+    projectPath: Library/Artifacts/5d/5daaf29a33664aa98461368c4c3220a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/dd/dd92cabf2ceb331db0e21f3bdeaa1ac0
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/Artifacts/dd/dd92cabf2ceb331db0e21f3bdeaa1ac0
+    projectPath: Library/Artifacts/dd/dd92cabf2ceb331db0e21f3bdeaa1ac0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor 2.dll
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor
+      2.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor 2.pdb
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor
+      2.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor 2.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.PlasticSCM.Editor 2.dll
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor
+      2.dll
+    projectPath: Library/ScriptAssemblies/Unity.PlasticSCM.Editor 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.PlasticSCM.Editor 2.pdb
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor
+      2.pdb
+    projectPath: Library/ScriptAssemblies/Unity.PlasticSCM.Editor 2.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro 2.dll
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.TextMeshPro
+      2.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro 2.pdb
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.TextMeshPro
+      2.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro 2.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor 2.dll
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.VSCode.Editor
+      2.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor 2.pdb
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/Unity.VSCode.Editor
+      2.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor 2.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner 2.dll
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/UnityEditor.TestRunner
+      2.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner 2.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner 2.pdb
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/ScriptAssemblies/UnityEditor.TestRunner
+      2.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner 2.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/SourceAssetDB
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/dd/dddd8a4c2c7bd84f2a41211c12295fb2.json
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Library/StateCache/SceneView/dd/dddd8a4c2c7bd84f2a41211c12295fb2.json
+    projectPath: Library/StateCache/SceneView/dd/dddd8a4c2c7bd84f2a41211c12295fb2.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs/AssetImportWorker0.log
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Logs/AssetImportWorker0.log
+    projectPath: Logs/AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/TagManager.asset
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-b7f2660dcf2314f288bea824953fef26
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Temp/UnityTempFile-b7f2660dcf2314f288bea824953fef26
+    projectPath: Temp/UnityTempFile-b7f2660dcf2314f288bea824953fef26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ca5f4cc5d4f964e1682bb396cc864610
+    fullPath: /Users/niko/Documents/Unity-Projects/RunningGame/Temp/UnityTempFile-ca5f4cc5d4f964e1682bb396cc864610
+    projectPath: Temp/UnityTempFile-ca5f4cc5d4f964e1682bb396cc864610
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

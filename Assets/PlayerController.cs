@@ -10,6 +10,19 @@ void Start () {
 //we get the Rigidbody component and put it in rb
 rb = GetComponent<Rigidbody>();
 }
+
+//when trigger collision happens
+void OnTriggerEnter(Collider other)
+{
+//if the other object entering our trigger zone
+//has a tag called "Pick Up"
+if (other.gameObject.CompareTag ("PickUp"))
+{
+//deactivat the other object
+other.gameObject.SetActive (false);
+}
+}
+
 private void FixedUpdate()
 { 
 //get horizontal movement, left = -1, right = 1
