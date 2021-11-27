@@ -300,7 +300,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.28f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.28f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.28f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll"
--r:"/Users/nicolegreen/Downloads/RunningGame-main/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
+-r:"/Users/niko/Documents/Unity-Projects/RunningGame/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -312,6 +312,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CameraController.cs"
+"Assets/CoinScript.cs"
+"Assets/GameHandler.cs"
 "Assets/PlayerController.cs"
 "Assets/spawnBlock.cs"
 -langversion:8.0

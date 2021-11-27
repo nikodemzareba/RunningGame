@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-11-21T19:25:25.312+00:00
-  initializedAtString: 2021-11-21T19:14:10.290+00:00
+  lastUpdatedAtString: 2021-11-26T12:54:12.905+00:00
+  initializedAtString: 2021-11-26T12:54:12.884+00:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
-  - name: origin/main
+  - name: origin/HEAD
     tracking: '[None]'
   remotes:
   - name: origin
@@ -43,10 +43,10 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
-      - main
+      - HEAD
     subKeyValues:
     - Values:
-      - name: main
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/nikodemzareba/RunningGame.git
